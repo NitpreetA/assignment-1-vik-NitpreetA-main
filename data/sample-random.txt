@@ -1,0 +1,15 @@
+14
+add 15 193
+add 17 193
+add 19 481
+query 92
+add 17 286
+add 19 363
+add 1 122
+query 15
+query 64
+add 1 232
+add 23 135
+add 4 105
+add 7 185
+query 7
